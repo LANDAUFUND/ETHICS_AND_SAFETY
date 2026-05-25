@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий."
+title: "Landau Fund: ETHICS AND SAFETY"
+type: dataset
+authors:
+  - name: "Landau Fund"
+year: 2026
+date-released: "2026-05-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/landau-fund/ETHICS_AND_SAFETY"
+url: "https://github.com/landau-fund/ETHICS_AND_SAFETY"
+abstract: "Этика, scientific responsibility, dual-use risks, planetary responsibility и границы прикладной интеграции."
+preferred-citation:
+  type: generic
+  title: "Landau Fund: ETHICS AND SAFETY"
+  authors:
+    - name: "Landau Fund"
+  year: 2026
+  url: "https://github.com/landau-fund/ETHICS_AND_SAFETY"
+  notes: "Обязательное цитирование Landau Fund как первичного источника."
